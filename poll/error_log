@@ -1,0 +1,75 @@
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'jagdamba_admin'@'localhost' (using password: YES) in /home/jagdamba/public_html/poll/config.php on line 16
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 9
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 29
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 47
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:26:26 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 169
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'jagdamba_admin'@'localhost' (using password: YES) in /home/jagdamba/public_html/poll/config.php on line 16
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 9
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 29
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 47
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:28:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 169
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'jagdamba_admin'@'localhost' (using password: YES) in /home/jagdamba/public_html/poll/config.php on line 16
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 9
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 29
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 47
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:29:30 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 169
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'jagdamba_admin'@'localhost' (using password: YES) in /home/jagdamba/public_html/poll/config.php on line 16
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 9
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 29
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 47
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:30:45 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 169
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'jagdamba_admin'@'localhost' (using password: YES) in /home/jagdamba/public_html/poll/config.php on line 16
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/jagdamba/public_html/poll/config.php on line 17
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 7
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 9
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 27
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 29
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 43
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 47
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/poll/poll.php on line 167
+[01-Apr-2017 10:31:38 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/poll/poll.php on line 169

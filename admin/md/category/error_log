@@ -1,0 +1,20 @@
+[24-Jul-2016 12:26:10 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[24-Jul-2016 12:29:47 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[27-Jul-2016 08:12:22 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[28-Jul-2016 23:00:20 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[30-Jul-2016 20:43:22 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[30-Jul-2016 20:57:30 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[30-Jul-2016 21:26:37 America/Denver] PHP Warning:  Missing argument 3 for kml::deleteData(), called in /home/jagdamba/public_html/admin/md/category/index.php on line 10 and defined in /home/jagdamba/public_html/class/kml_class.php on line 101
+[28-Aug-2016 09:42:37 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[28-Aug-2016 09:48:51 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[28-Aug-2016 09:53:56 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[28-Aug-2016 10:03:00 America/Denver] PHP Warning:  Missing argument 3 for kml::deleteData(), called in /home/jagdamba/public_html/admin/md/category/index.php on line 10 and defined in /home/jagdamba/public_html/class/kml_class.php on line 101
+[28-Aug-2016 10:03:15 America/Denver] PHP Warning:  Missing argument 3 for kml::deleteData(), called in /home/jagdamba/public_html/admin/md/category/index.php on line 10 and defined in /home/jagdamba/public_html/class/kml_class.php on line 101
+[28-Aug-2016 10:06:00 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[28-Aug-2016 10:10:55 America/Denver] PHP Warning:  Missing argument 3 for kml::deleteData(), called in /home/jagdamba/public_html/admin/md/category/index.php on line 10 and defined in /home/jagdamba/public_html/class/kml_class.php on line 101
+[19-Feb-2017 10:37:15 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[19-Feb-2017 10:50:28 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[19-Feb-2017 11:18:04 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[14-Sep-2017 18:20:22 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30
+[14-Sep-2017 18:23:09 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[15-Sep-2017 08:58:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 30

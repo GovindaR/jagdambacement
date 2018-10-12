@@ -1,0 +1,35 @@
+[09-Jun-2016 05:22:52 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[09-Jun-2016 05:22:59 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[21-Jul-2016 03:30:21 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[21-Jul-2016 03:30:27 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[26-Jul-2016 04:56:02 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[26-Jul-2016 04:56:11 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[09-Aug-2016 00:10:44 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[09-Aug-2016 00:10:54 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[13-Aug-2016 07:02:22 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:11:51 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:14:47 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:16:18 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:17:02 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:17:24 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:18:22 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[23-Mar-2017 04:18:54 America/Denver] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[05-Sep-2017 20:47:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[05-Sep-2017 20:49:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[07-Sep-2017 14:13:05 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[07-Sep-2017 14:20:26 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[07-Sep-2017 14:20:58 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[08-Sep-2017 08:10:42 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166
+[01-Oct-2017 09:14:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Title' at row 1' in /home/jagdamba/public_html/class/kml_class.php:162
+Stack trace:
+#0 /home/jagdamba/public_html/class/kml_class.php(162): PDOStatement->execute(Array)
+#1 /home/jagdamba/public_html/admin/category/add.php(51): kml->updateData('plant', '1', Array, Array)
+#2 {main}
+  thrown in /home/jagdamba/public_html/class/kml_class.php on line 162
+[01-Oct-2017 09:14:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'Title' at row 1' in /home/jagdamba/public_html/class/kml_class.php:162
+Stack trace:
+#0 /home/jagdamba/public_html/class/kml_class.php(162): PDOStatement->execute(Array)
+#1 /home/jagdamba/public_html/admin/category/add.php(51): kml->updateData('plant', '2', Array, Array)
+#2 {main}
+  thrown in /home/jagdamba/public_html/class/kml_class.php on line 162
+[01-Oct-2017 09:27:39 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/jagdamba/public_html/class/kml_class.php on line 166

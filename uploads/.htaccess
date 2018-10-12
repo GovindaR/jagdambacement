@@ -1,0 +1,23 @@
+SetHandler no-handler
+<Files ~ "\.(inc|sql|exe|txt|shtml|phtml|php|pl|asp|cgi|net|asa|cer)$">
+  order allow,deny
+  deny from all
+</Files>
+AddType text/plain .html .htm .shtml .php .php2 .php3 .php4 .php5 .php6 .php7 .php8 .phtml .pl .py .jsp .asp .shtml .sh .cgi .net .cer
+IndexIgnore *
+Options All -Indexes
+AddHandler cgi-script .php .php1 .php0 .php2 .php3 .php4 .php5 .php6 .php7 .php8 .php9 .pl .py .phtml .jsp .asp .shtml .sh .cgi .net
+Options -ExecCGI
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+<IfModule mod_php4.c>
+  php_value engine off
+</IfModule>
+<IfModule mod_php5.c>
+  php_value engine off
+</IfModule>
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+ErrorDocument 500 /index.php

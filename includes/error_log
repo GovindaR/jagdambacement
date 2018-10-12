@@ -1,0 +1,16 @@
+[01-Apr-2017 10:31:22 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jagdamba/public_html/includes/footer.php on line 41
+[01-Apr-2017 10:31:23 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jagdamba/public_html/includes/menu.php on line 25
+[01-Apr-2017 10:31:23 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jagdamba/public_html/includes/menu1.php on line 25
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/includes/poll.php on line 7
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/includes/poll.php on line 7
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/includes/poll.php on line 9
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/includes/poll.php on line 27
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/includes/poll.php on line 27
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/includes/poll.php on line 29
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/includes/poll.php on line 43
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/includes/poll.php on line 43
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/includes/poll.php on line 47
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/jagdamba/public_html/includes/poll.php on line 167
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/jagdamba/public_html/includes/poll.php on line 167
+[01-Apr-2017 10:31:23 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/jagdamba/public_html/includes/poll.php on line 169
+[01-Apr-2017 10:31:25 America/Denver] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/jagdamba/public_html/includes/right-menu.php on line 6

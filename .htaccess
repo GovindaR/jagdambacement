@@ -1,0 +1,54 @@
+<IfModule mod_rewrite.c>
+
+    RewriteEngine On
+
+	
+
+	RewriteRule ^index.html$ index.php [L]
+
+	RewriteRule ^contact.html$ contact.php [L]
+
+	
+
+	#RewriteCond %{REQUEST_FILENAME} !-d
+
+	#RewriteCond %{REQUEST_FILENAME} !-f
+
+	#RewriteRule ^(.+)/(.+)/(.+)/(.+)\.html$ package.php?dest=$1&cat=$2&region=$3&title=$4 [L,QSA]
+
+	
+
+	#RewriteCond %{REQUEST_FILENAME} !-d
+
+	#RewriteCond %{REQUEST_FILENAME} !-f
+
+	#RewriteRule ^(.+)/(.+)/(.+)\.html$ region.php?dest=$1&cat=$2&region=$3 [L,QSA]
+
+	
+
+	#RewriteCond %{REQUEST_FILENAME} !-d
+
+	#RewriteCond %{REQUEST_FILENAME} !-f
+
+	#RewriteRule ^(.+)/(.+)\.html$ activity.php?dest=$1&cat=$2 [L,QSA]
+
+	
+
+	#RewriteCond %{REQUEST_FILENAME} !-d
+
+	#RewriteCond %{REQUEST_FILENAME} !-f
+
+	#RewriteRule ^(.+)/$ destination.php?dest=$1 [L,QSA]
+
+	
+
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+
+	RewriteRule ^(.+)\.html$ inner.php?title=$1 [L,QSA]
+
+	
+
+</IfModule>
+

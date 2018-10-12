@@ -1,0 +1,1 @@
+<div class="footerBottom">The contents of this webpage are copyright © <?php echo COMPANY_NAME. " " . date('Y');?>.</div>

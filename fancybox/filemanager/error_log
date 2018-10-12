@@ -1,0 +1,5 @@
+[04-Apr-2016 20:27:12 America/Denver] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jagdamba/public_html/filemanager/config/config.php on line 3
+[04-Apr-2016 20:27:41 America/Denver] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jagdamba/public_html/filemanager/config/config.php on line 3
+[04-Apr-2016 20:27:53 America/Denver] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jagdamba/public_html/filemanager/config/config.php on line 3
+[04-Apr-2016 20:30:38 America/Denver] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jagdamba/public_html/filemanager/config/config.php on line 3
+[04-Apr-2016 20:33:12 America/Denver] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jagdamba/public_html/filemanager/config/config.php on line 3

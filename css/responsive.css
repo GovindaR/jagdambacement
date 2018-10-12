@@ -1,0 +1,227 @@
+@media screen and (max-width:1024px) {
+    .reviewin-boxwrap {
+        width: 47%
+    }
+    .ourClients h4 span {
+        width: 10%
+    }
+    .menu ul li a {
+        padding: 0 8px
+    }
+}
+
+@media screen and (max-width:768px) {
+    .modal-dialog {
+        width: 93%!important
+    }
+    .reviewin-boxwrap {
+        margin-left: 0!important;
+        width: 100%;
+        float: none
+    }
+    .wrapper {
+        width: 100%;
+        margin: 0
+    }
+    .main-video-carousel .owl-theme .owl-dots, .main-video-carousel .owl-theme .owl-nav{
+        top: 90px;
+    }
+    .video .main-video-carousel .owl-prev{
+            bottom: 36px;
+    }
+    .video-show {
+    margin: 0 6%;
+    margin-bottom: -60px;
+}
+}
+
+@media screen and (max-width:767px) {
+    #iview,
+    #screen {
+        height: 500px
+    }
+    .fa-envelope br,
+    .quickContact br {
+        display: none
+    }
+    .quickContact {
+        text-align: left
+    }
+    .search {
+        width: 100%
+    }
+    #bar {
+        height: 400px
+    }
+    .logo {
+        margin-top: 20px
+    }
+    #iview-preloader,
+    #iview-preloader div {
+        height: 3px
+    }
+    #iview {
+        max-width: 900px;
+        min-width: 300px
+    }
+    .iview-controlNav {
+        height: 44px
+    }
+    #iview-preloader {
+        width: 180px
+    }
+    .reviewBox {
+        margin-top: 0
+    }
+    .address {
+        margin: 10px 0
+    }
+    .email {
+        margin: 0 0 10px
+    }
+    .phone {
+        margin: 0
+    }
+    .quickContact i {
+        line-height: 1.3;
+        margin-left: 0
+    }
+    .quickForm1 input {
+        width: 100%
+    }
+    .quickForm1 input:last-child {
+        margin: 0 2% 10px 0
+    }
+    #v-nav .overflow>ul,
+    #v-nav.overflow ul>li {
+        width: 100px
+    }
+    .wrapper li {
+        margin: 0 0 0 11px
+    }
+    #v-nav .overflow {
+        float: none;
+        width: 100%;
+        display: block;
+        overflow: scroll
+    }
+    #v-nav>.overflow>ul {
+        width: 390%
+    }
+    #v-nav .overflow>ul>li {
+        width: 100px;
+        float: left;
+        height: 120px;
+        border: 1px solid #DDD
+    }
+    #v-nav>div.tab-content {
+        padding: 10px;
+        margin-top: -3px;
+        margin-left: 0;
+        border: 1px solid #ddd
+    }
+    #v-nav .overflow>ul>li.current,
+    #v-nav .overflow>ul>li:hover {
+        border-bottom: none;
+        border-left: none;
+        border-top: 5px solid #2f3293
+    }
+}
+@media screen and (max-width:550px) {
+ .main-video-carousel .owl-theme .owl-dots, .main-video-carousel .owl-theme .owl-nav {
+    top: 115px;
+}
+.video .main-video-carousel .owl-prev {
+    content: '';
+    position: absolute;
+    bottom: 38px;
+    left: -44px;
+    background-color: #1a1a1a !important;
+    width: 23px;
+    height: 24px;
+    margin: 0;
+    border-radius: 0 !important;
+    box-sizing: border-box;
+}
+.video .main-video-carousel {
+    padding: 40px 39px 1px 39px;
+}
+.video .main-video-carousel .owl-prev {
+    left: -39px;
+}
+.video-show {
+    width: 90%;
+    margin: auto;
+    margin-bottom: -38px;
+}
+.video-show .video-carousel {
+    height: auto;
+    width: 100%;
+    margin: auto;
+}
+.video-carousel iframe {
+    width: 100%;
+      height: 315px;
+}
+}
+
+@media screen and (max-width:320px) {
+    .career__border1 .col-sm-12,
+    .form-group .col-md-6,
+    .form-group1,
+    .recaptcha,
+    .reviewin-box-see {
+        padding: 0
+    }
+    .backToTop {
+        right: 22px
+    }
+    .rc-anchor-normal .rc-anchor-content {
+        width: 160px
+    }
+    .rc-anchor-logo-portrait {
+        margin: 10px 0 0 16px!important
+    }
+    .rc-anchor-normal {
+        height: 74px;
+        width: 268px!important
+    }
+    .rc-anchor-normal .rc-anchor-pt {
+        margin: 2px 22px 0 0!important
+    }
+    .our__product h1,
+    .our__product h2,
+    .our__product h4 {
+        text-align: left
+    }
+    .reviewPhoto {
+        float: none;
+        margin: auto auto 15px;
+        width: 40%;
+        text-align: center
+    }
+    .reviewin-box {
+        width: 100%
+    }
+    .reviewin-box-txt {
+        margin: 0;
+        padding: 0;
+        text-align: left
+    }
+    .reviewin-by {
+        margin: 0;
+        padding: 10px 10px 10px 0;
+        float: none;
+        width: 100%
+    }
+    #footerWrap h2 {
+        font-size: 18px
+    }
+    #footerWrap .col-md-3:not(:first-child) {
+        margin-top: 30px
+    }
+    #footerWrap li a {
+        margin: 0 0 10px
+    }
+   
+}
